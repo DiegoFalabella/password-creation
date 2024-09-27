@@ -9,9 +9,14 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+     "lucide-react": "^0.300.0",
+  "@radix-ui/react-tooltip": "^1.0.0", // Exemplo de uma dependência de UI
+  // Adicione outras dependências conforme necessário
   },
   "devDependencies": {
     "typescript": "^4.9.5",
     "react-scripts": "^5.0.1"
   }
 }
+
+
